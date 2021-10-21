@@ -2058,6 +2058,7 @@ class BankAccountsState extends State<BankAccounts> {
 
 
   Future<void> deleteEntry(
+
       GlobalKey<State<StatefulWidget>> keyLoader, String user_id) async {
 
 
